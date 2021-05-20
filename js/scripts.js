@@ -11,6 +11,8 @@ $(document).ready(function () {
       });
     });
 
+    $("#button").hide();
+
     event.preventDefault();
   });
 });
